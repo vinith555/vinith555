@@ -54,5 +54,5 @@ I enjoy solving **coding challenges** and exploring **new tech stacks**, constan
 ---
 
 ## 📫 **Connect With Me**
-- LinkedIn: [(https://www.linkedin.com/in/vinith-m-s?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BLTVP7Gl4Tsue7%2BebEgLKDQ%3D%3D)](#)
+- LinkedIn: [https://www.linkedin.com/in/vinith-m-s](https://www.linkedin.com/in/vinith-m-s?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BLTVP7Gl4Tsue7%2BebEgLKDQ%3D%3D)
 - Email: vinithmuthusamy555@gmail.com
