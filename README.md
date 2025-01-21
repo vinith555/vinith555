@@ -37,7 +37,7 @@ I'm a passionate **Engineering Graduate** with a keen interest in **Full-Stack D
 ## 🌱 **What I’m Learning**
 - Advanced **DSA** techniques and problem-solving strategies.
 - Back-end development with **Node.js**.
-- Cloud deployment and hosting tools like **Render** and **AWS**.
+- ServiceNow for IT service management and automation.
 
 ---
 
@@ -54,5 +54,5 @@ I enjoy solving **coding challenges** and exploring **new tech stacks**, constan
 ---
 
 ## 📫 **Connect With Me**
-- LinkedIn: [Your LinkedIn Profile](#)
-- Email: vinith555@example.com (replace with your email)
+- LinkedIn: [(https://www.linkedin.com/in/vinith-m-s?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BLTVP7Gl4Tsue7%2BebEgLKDQ%3D%3D)](#)
+- Email: vinithmuthusamy555@gmail.com
