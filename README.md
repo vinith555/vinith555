@@ -35,7 +35,7 @@ I'm a passionate **Engineering Graduate** with a keen interest in **Full-Stack D
 ---
 
 ## 🌱 **What I’m Learning**
-- Advanced **DSA** techniques and problem-solving strategies.
+- **DSA** techniques and problem-solving strategies.
 - Back-end development with **Node.js**.
 - ServiceNow for IT service management and automation.
 
