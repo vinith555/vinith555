@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://ibb.co/yMCL4HD" alt="One Piece Banner" width="100%" />
+  <img src="https://ibb.co/yMCL4HD" alt="" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="background: linear-gradient(90deg, #FFD700, #FF4500); -webkit-background-clip: text; color: transparent;">Vinith M S</span>!</h1>
